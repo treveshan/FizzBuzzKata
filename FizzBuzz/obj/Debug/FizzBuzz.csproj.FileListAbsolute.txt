@@ -1,0 +1,7 @@
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\bin\Debug\FizzBuzz.dll
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\bin\Debug\FizzBuzz.pdb
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\bin\Debug\nunit.framework.dll
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\bin\Debug\nunit.framework.xml
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\obj\Debug\FizzBuzz.dll
+E:\systems\playground\katas\FizzBuzz\20161003\fb\FizzBuzz\obj\Debug\FizzBuzz.pdb
